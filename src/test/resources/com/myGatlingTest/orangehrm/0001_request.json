@@ -1,0 +1,1 @@
+{"entries":[{"http_response_code":204,"network_changed":false,"protocol":"QUIC","request_age_ms":104915,"request_elapsed_ms":54,"sample_rate":0.05,"server_ip":"142.250.200.142:443","status":"ok","url":"https://www.google-analytics.com/","was_proxied":false}],"reporter":"chrome"}

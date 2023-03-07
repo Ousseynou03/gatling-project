@@ -1,0 +1,10 @@
+{
+  "simulation": "com.myGatlingTest.MyComputerJourney",
+  "simulationId": "mycomputerjourney",
+  "start": 1678087454512,
+  "description": "test",
+  "scenarios": ["MyComputerJourney"],
+  "assertions": [
+
+  ]
+}
